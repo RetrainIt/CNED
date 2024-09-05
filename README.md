@@ -15,5 +15,5 @@ We appreciate all contributors and collaborators who have made this dataset poss
 
 ---
 
-*Please note that the NED dataset is provided for research purposes only. Any commercial use is strictly prohibited without prior consent.*
+*Please note that the CNED dataset is provided for research purposes only. Any commercial use is strictly prohibited without prior consent.*
 
